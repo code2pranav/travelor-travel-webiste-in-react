@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "The Top Travel Destinations for Photography Enthusiasts",
+        "author": "Joey Peterson",
+        "image": "/src/assets/Index/Blogs/blog-img01.jpg",
+        "date": "05"
+    },
+    {
+        "id": 2,
+        "title": "The Best Ways to Travel with Your Significant Other",
+        "author": "By Aliena SMith",
+        "image": "/src/assets/Index/Blogs/blog-img02.jpg",
+        "date": "06"
+    },
+    {
+        "id": 3,
+        "title": "Top 3 Adventure Destinations for Your Next Holiday",
+        "author": "By Ronin Colun",
+        "image": "/src/assets/Index/Blogs/blog-img03.jpg",
+        "date": "07"
+    },
+    {
+        "id": 4,
+        "title": "The Top Travel Destinations for Photography Enthusiasts",
+        "author": "By Joey Peterson",
+        "image": "/src/assets/Index/Blogs/blog-img04.jpg",
+        "date": "08"
+    },
+    {
+        "id": 5,
+        "title": "The Best Ways to Travel with Your Significant Other",
+        "author": "By Aliena SMith",
+        "image": "/src/assets/Index/Blogs/blog-img05.jpg",
+        "date": "09"
+    },
+    {
+        "id": 6,
+        "title": "Top 3 Adventure Destinations for Your Next Holiday",
+        "author": "By Ronin Colun",
+        "image": "/src/assets/Index/Blogs/blog-img06.jpg",
+        "date": "10"
+    },
+    {
+        "id": 7,
+        "title": "The Top Travel Destinations for Photography Enthusiasts",
+        "author": "By Joey Peterson",
+        "image": "/src/assets/Index/Blogs/blog-img07.jpg",
+        "date": "11"
+    },
+    {
+        "id": 8,
+        "title": "The Best Ways to Travel with Your Significant Other",
+        "author": "By Aliena SMith",
+        "image": "/src/assets/Index/Blogs/blog-img08.jpg",
+        "date": "12"
+    },
+    {
+        "id": 9,
+        "title": "Top 3 Adventure Destinations for Your Next Holiday",
+        "author": "By Ronin Colun",
+        "image": "/src/assets/Index/Blogs/blog-img09.jpg",
+        "date": "13"
+    }
+]
