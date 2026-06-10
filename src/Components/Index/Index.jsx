@@ -8,7 +8,7 @@ import Testimonials from './Testimonials/Testimonials'
 import Banner from './Banner/Banner'
 import Counter from './Counter/Counter'
 import Blogs from './Blogs/Blogs'
-import TourCategories from './TourCategories/Tourcategories'
+import TourCategories from './TourCategories/TourCategories'
 import Tours from './Tours/Tours'
 
 export default function Index() {
